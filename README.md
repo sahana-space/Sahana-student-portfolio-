@@ -147,7 +147,7 @@ nav ul{width:100%;right:-100%;}
 
 <section id="timeline" class="hidden"><h2>My Journey</h2><div class="timeline">
 <div class="timeline-item left"><div class="timeline-content"><h3>🎂 2008</h3><p>Born on 3/4/2008. The beginning of a journey driven by creativity, learning and ambition.</p></div></div>
-<div class="timeline-item right"><div class="timeline-content"><h3>📚 2023</h3><p>Completed SSLC with 65%.</p></div></div>
+<div class="timeline-item right"><div class="timeline-content"><h3>📚 2023</h3><p>Completed SSLC with 82% .</p></div></div>
 <div class="timeline-item left"><div class="timeline-content"><h3>🏆 2025</h3><p>Completed Higher Secondary Education (HSC) with 85%.</p></div></div>
 <div class="timeline-item right"><div class="timeline-content"><h3>🎓 2026 - Present</h3><p>Currently pursuing B.Com (Computer Applications) at SASTRA Deemed University, Thanjavur. Focused on technology, business applications and web development.</p></div></div>
 <div class="timeline-item left"><div class="timeline-content"><h3>🚀 Future Vision</h3><p>Aspiring to become a skilled technology professional, web developer and entrepreneur while creating innovative digital solutions.</p></div></div>
